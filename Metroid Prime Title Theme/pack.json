@@ -1,0 +1,10 @@
+{
+  "name": "Metroid Prime Title Theme",
+  "description": "Title theme from Metroid Prime.",
+  "author": "Linux Gaming Central",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
